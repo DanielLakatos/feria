@@ -179,6 +179,28 @@ To introduce dynamic elements, the likelihood of certain events is influenced by
 
 *DM Note: The DM determines the Bastion's current status in each category based on recent player actions, downtime activities, and ongoing campaign events. For example, building defensive walls improves Security, successfully completing trade orders boosts Prosperity, and resolving local quests enhances Reputation.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Bastion Events
 | Roll (1d100 + Modifier) | Event                         | Category |
 |:-----------------------:|-------------------------------|:--------:|
@@ -245,6 +267,50 @@ To determine the extent and duration of the breakdown, and if the party's interv
 An unforeseen financial demand arises within your Bastion, possibly stemming from a trade deal gone awry, a crafting project encountering rare material shortages, or a critical order requiring specialized components. This sudden need for funds creates a financial pinch, requiring an immediate or impending investment.
 
 The amount of gold needed is (character level)d4, with the multiplier determined by the DM to represent the scale of the expense (e.g., x100 for a major setback, x50 for a significant cost, x25 for a moderate expenditure). This gold must either be drawn from the Bastion's coffers or supplied by the party members within 1d4 Bastion turns. Failure to meet this demand could result in delayed projects, lost resources, or a hit to the Bastion's Prosperity.
+
+##### Local Rivalry
+
+The Bastion finds itself embroiled in a subtle, yet persistent, rivalry with a local faction or burgeoning enemy. Unlike an outright ambush, this event represents less direct actions—scheming, undermining, or accumulating advantages that might not be immediately visible to the party. These actions sow the seeds for future conflict, eroding your Bastion's standing or empowering your adversaries.
+
+The DM will determine the specific manifestation of this rivalry, or roll a d20:
+
+*   **1-4:** Rivals gain a strategic advantage, potentially increasing the number of combatants or resources they'll have in a future direct confrontation.
+*   **5-14:** The chance of an attack on your Bastion increases by 1d2.
+*   **15-19:** Rivals successfully disrupt a trade route or resource supply, imposing a -1 penalty on a future Prosperity check or adding 100gp to the cost of the next Trade or Craft order.
+*   **20:** The rivals' preparations culminate, granting them the ability to initiate a full-scale attack on your Bastion as early as the next Bastion turn, at the DM's discretion. This event serves as a clear warning of impending danger.
+
+##### Request for Aid
+
+A local group, community, or even a neighboring settlement sends an urgent plea for assistance to your Bastion. This could manifest as a nearby town requiring immediate supplies, a village under attack needing armed defenders, or a pressing crisis that demands the unique capabilities of your stronghold and its inhabitants.
+
+If the party members are present in the Bastion, or if they can be swiftly contacted, they must decide whether to answer this call. Their choice will lead to varying outcomes, shaped by the DM to fit the ongoing narrative. Refusing aid might result in a temporary or even permanent decline in the Bastion's Reputation with the affected group and the surrounding area. Conversely, offering assistance could yield valuable rewards, open new opportunities, or forge powerful alliances in the future.
+
+Here are some examples of urgent requests for aid:
+
+| 1d5 | Event |
+|:---:|-------|
+| 1 | **Urgent Supply Run**: A nearby town's granary was destroyed by fire, or its water source was contaminated. They desperately need the Bastion to dispatch immediate food, clean water, or specialized supplies to prevent famine or illness. |
+| 2 | **Impending Attack**: A scout or messenger arrives, breathless, reporting a monstrous horde (goblins, orcs, undead, etc.) or a bandit gang marching towards a defenseless village or a crucial strategic point. They need the Bastion's defenders to reinforce their meager forces immediately. |
+| 3 | **Magical Emergency**: A localized magical phenomenon (a wild magic zone, a rampaging elemental, a spreading blight) threatens to engulf a populated area or vital resource. The Bastion's arcane specialists or magical resources are specifically requested to contain or counteract it. |
+| 4 | **Hostage Situation**: A prominent figure, a vital merchant, or a group of innocent travelers has been taken hostage by brigands or monstrous humanoids within a short distance of the Bastion. Immediate intervention is required to save them before it's too late. |
+| 5 | **Critical Infrastructure Failure**: A vital bridge, a dam, or a mine shaft has collapsed due to an earthquake or sabotage, cutting off trade or threatening a large area. The Bastion's engineers, laborers, or even specific magical abilities are needed for immediate, critical repairs. |
+
+##### Refugees
+
+A desperate group of wandering travelers arrives at your Bastion's gates, seeking temporary shelter. These refugees might be honest folk fleeing hardship, displaced villagers seeking safety, or humble beggars driven by hunger and desperation. Their plight presents a poignant test of your Bastion's compassion and resources.
+
+The DM will determine the duration of their stay and their true nature. Welcoming these weary souls might significantly boost your Bastion's Reputation among local communities, and their gratitude could manifest as future compensation or valuable connections. However, caution is advised, for among them could lurk cunning spies sent by a rival faction, or even bandits in disguise, waiting for an opportune moment to betray your trust and launch an ambush during a subsequent Bastion turn.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Attack on the Bastion
 
