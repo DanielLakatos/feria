@@ -309,7 +309,32 @@ Here are some examples of Strange Phenomena:
 
 #### All is well
 
-TODO!
+This is the most common event, signaling that the Bastion continues to function smoothly without any significant disruption or dramatic change. While no mechanical updates occur—such as changes to Rival progress, boons to active orders, or shifts in Bastion status—the DM should provide a brief narrative update to keep the stronghold feeling like a living, breathing place.
+
+Share a minor observation, a local rumor, or a small, harmless incident from the Bastion's daily life. These flavor-rich details help immerse players in their home; occasionally, a player might latch onto a mundane detail, allowing the DM to cultivate that observation into a future quest hook or story development based on the party's interests.
+
+| 1d20 | Details |
+| :---: | :--- |
+| 1 | Accident reports are way down. |
+| 2 | The leak in the roof has been fixed. |
+| 3 | No vermin infestations to report. |
+| 4 | You-Know-Who lost their spectacles again. |
+| 5 | One of your hirelings adopted a stray dog. |
+| 6 | You received a lovely letter from a friend. |
+| 7 | Some practical joker has been putting rotten eggs in people's boots. |
+| 8 | Someone thought they saw a ghost. |
+| 9 | The cook accidentally added too much spice to the stew, which everyone found surprisingly refreshing. |
+| 10 | Thick, rolling fog has obscured the surrounding forest, creating a quiet, cozy atmosphere. |
+| 11 | The groundskeeper is experimenting with a new, elaborate topiary shape in the courtyard. |
+| 12 | A friendly stray cat has been seen sleeping on the warm bricks near the kitchen stove. |
+| 13 | The main gate’s hinges were finally oiled; the annoying screech has stopped. |
+| 14 | Two of your hirelings have started a friendly, ongoing competition to see who can bake the best bread. |
+| 15 | Seasonal birds have begun building nests in the crenellations of your defensive walls. |
+| 16 | A rumor is circulating that the local well water tastes particularly crisp this season. |
+| 17 | The smith’s humming has become a permanent, if slightly tuneless, feature of the morning work. |
+| 18 | Someone keeps rearranging the furniture in the parlor, claiming it improves the airflow. |
+| 19 | A floorboard in the hallway has developed a rhythmic creak that some find almost musical. |
+| 20 | A small, harmless patch of luminescent moss has appeared on a shadowed wall, casting a soft, blue light. |
 
 #### Friendly Visitors
 
