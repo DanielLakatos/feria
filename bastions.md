@@ -487,18 +487,49 @@ Once the DM determines the outcome, use the table below to apply the appropriate
 | **Rival's Failure**          | **Minor Negatives (if any).** The Rival was repelled with minimal impact on the Bastion. Small temporary consequences might still apply due to the stress of defense (e.g., a temporary dip in Reputation).                                                                                                                                                                                                                                                                                                                                 | 2d4 + 1 Bastion turns | **Lowered Threat.** The Chance of Attack is set to **1-5**, as the Rival is set back and needs to reconsider their approach.                  |
 | **Rival's Critical Failure** | **Crucial Information and Counter-Opportunity.** The Rival was utterly routed, suffering heavy losses and revealing critical weaknesses or intelligence. <br><br> The party learns vital information (e.g., the Lich's dungeon location, evidence for legal parley with authorities, the Rival Adventuring Party's hidden base). This opens a direct path for the players to launch a **Counter-Attack** or undertake a specific quest to **fully eradicate the Rival's threat** once and for all through roleplay or a decisive encounter. | 3d4 + 1 Bastion turns | Threat is potentially **eradicated**.No further attacks from this Rival.                                                                      |
 
-## Multiple Rivals (Optional Rule)
+### Multiple Rivals (Optional Rule)
 
 For campaigns where the Bastion plays a very central role and players enjoy complex strategic management, the DM may choose to track multiple Rivals simultaneously. Each Rival would have its own independent **Chance of Attack** score, and potentially different objectives or attack styles. This can lead to engaging scenarios where the party must prioritize defenses or even leverage one Rival against another. This option adds significant complexity and should be introduced at the DM's discretion, ensuring it enhances rather than overwhelms the gameplay experience.
 
+## Hirelings
 
+Hirelings are the lifeblood of the Bastion. They execute facility orders and serve as the first line of defense if the Bastion comes under attack. Because the complexity of managing hirelings can vary, this section outlines three approaches, ranging from simple to complex.
 
-hirelings
+In all cases, you should assume that hirelings' wages and day-to-day living expenses are covered by regular Bastion activity. You do not need to track individual salaries; you can assume that a wizard in an Arcane Study creates minor, mundane items to sell, or that the Bastion's general trade handles the upkeep of all staff. Only handle specific financial costs when they involve special requests that serve as adventure hooks.
 
-hirelings are the blood and meat of the bastion. they determine the results of orders, they are the first line of defense if the bastion is under attack. the complexity of handling the hirelings should be discussed with the group so this section outlines difgferent level of complexitty starting with simple all the way to complex.
+### Simple Hirelings
+If your group prefers the Bastion system but finds managing individual NPCs cumbersome, you may choose to obfuscate this layer entirely.
 
-simple hirelings: if the party likes the bastion system but finds dealing withe the specific hirelings comboursome you can obfuscate this layer as a dm fully. you can remove the additions or negatives provided by hirelings to facilities, have the hiring and removal of them automatically. for defense you can assume based on the amount of investment by the party what level the hirelings are. in this situation dont add an option to role play as the hirelings to players if the party is not present. autoresolving should depend on the defense facilities and investments by the party rather then individual hirelings and their level. if party is present for the defense, use some sidekicks or default guards to represent the hirelings in the defense.
+*   **Management:** Remove the bonuses or penalties provided by individual hirelings to facilities; hiring and removal happen automatically in the background.
+*   **Defense:** Base the Bastion's defensive capabilities on the level of investment by the party, rather than individual hireling levels.
+*   **Playstyle:** Do not use the rules to roleplay as hirelings when the party is absent. If the party is present during a defense, use generic sidekicks or standard guard stat blocks to represent the defenders.
 
-improving the simple system with a few speciality hirelings: if the party doesnt mind the hirelings, its a great way to have NPCs join the party as bastion hirelings as defenders or people realted to specific facilities. even if ther eis not much roleplaying or change to hopw facilities work, having the named NPC present means you can use them as questhooks or providing some expertise the party may miss (like having a wizard in teh bastion if there is non in the party may unlock some way for the players in some story element they are dealing iwht outside the bastion) I would recommend even if hirelings are not a full system to have some NPCs that join as part of bastion or world events be in the bastion just for narrative purposes.
+### Specialty Hirelings
+If your party enjoys flavor but wants to keep management light, use named NPCs to fill roles. Even if they do not change how facilities function mechanically, having a named NPC present allows you to use them as quest hooks or sources of expertise the party may lack. 
 
-having special hirelings matter more: if you have some of the hirelings be named NPCs, and dont mind some extra angle of complexity for the bastion, its great to tie them to some special bastion skills, active or passive. as a base level you could come up with specific buffs the hireling can provide to a facility, like a lich could
+For example, if your party lacks a wizard, having a scholar join the Bastion may unlock narrative ways to interact with arcane elements outside the Bastion. I recommend including these named NPCs in the Bastion simply for narrative purposes, even if you are not using a full hireling system.
+
+### Advanced Hirelings
+For groups interested in deeper strategic management, tie named NPCs to specific active or passive Bastion skills. This allows hirelings to meaningfully impact the Bastion's efficiency.
+
+*   **Mechanics:** Hirelings provide specific, tangible buffs to the Bastion.
+*   **Development:** If the DM and the party develop a special connection to a hireling, you can run quests to unlock additional skills for them. Allowing players to participate in decisions regarding a hireling's training or future capabilities makes these NPCs an extra special part of the campaign.
+
+See the following table for some ideas for hirelings you could include in your campaign:
+
+The following table provides examples of specialty hirelings that can be introduced to the Bastion. Each hireling provides unique benefits to the Bastion's facilities or defenses.
+
+| d12 | Specialty Hireling | Effect |
+|:---:|:--- |:--- |
+| 1 | **Abjuration Wizard** | Places protective glyphs and wards, reducing damage taken by facilities and defenders during an attack. |
+| 2 | **Conjuration Wizard** | Manages supply lines; allows Trade orders to yield 25% more profit. |
+| 3 | **Divination Wizard** | Monitors local omens; allows the player to reroll one Bastion Event result per session. |
+| 4 | **Enchantment Wizard** | Enhances magic crafting; allows the Arcane Study to craft magical items.
+| 5 | **Evocation Wizard** | Installs defensive artillery; provides a powerful magical offensive action during Bastion defense encounters. |
+| 6 | **Illusion Wizard** | Conceals the Bastion’s presence; imposes a penalty on Rival rolls to locate or target the stronghold. |
+| 7 | **Necromancy Wizard** | Animates tireless laborers; reduces the time required for basic facility maintenance or construction. |
+| 8 | **Transmutation Wizard** | Refines raw materials; allows Crafting orders to use cheaper or alternate resources. |
+| 9 | **Master Craftsman** | Possesses proficiency with all artisan tools; acts as a master-level specialist for any Workshop order. |
+| 10 | **Artificer** | Maintains complex defenses; grants a permanent bonus to Bastion Security and unlocks prototype gadget recipes. |
+| 11 | **Grave Cleric** | Guards the boundary of life and death; provides passive healing to Bastion Defenders and resists necrotic damage. |
+| 12 | **Druid of the Stars** | Maps ley lines; reduces the cost and risk associated with Teleportation. |
