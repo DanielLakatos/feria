@@ -490,3 +490,15 @@ Once the DM determines the outcome, use the table below to apply the appropriate
 ## Multiple Rivals (Optional Rule)
 
 For campaigns where the Bastion plays a very central role and players enjoy complex strategic management, the DM may choose to track multiple Rivals simultaneously. Each Rival would have its own independent **Chance of Attack** score, and potentially different objectives or attack styles. This can lead to engaging scenarios where the party must prioritize defenses or even leverage one Rival against another. This option adds significant complexity and should be introduced at the DM's discretion, ensuring it enhances rather than overwhelms the gameplay experience.
+
+
+
+hirelings
+
+hirelings are the blood and meat of the bastion. they determine the results of orders, they are the first line of defense if the bastion is under attack. the complexity of handling the hirelings should be discussed with the group so this section outlines difgferent level of complexitty starting with simple all the way to complex.
+
+simple hirelings: if the party likes the bastion system but finds dealing withe the specific hirelings comboursome you can obfuscate this layer as a dm fully. you can remove the additions or negatives provided by hirelings to facilities, have the hiring and removal of them automatically. for defense you can assume based on the amount of investment by the party what level the hirelings are. in this situation dont add an option to role play as the hirelings to players if the party is not present. autoresolving should depend on the defense facilities and investments by the party rather then individual hirelings and their level. if party is present for the defense, use some sidekicks or default guards to represent the hirelings in the defense.
+
+improving the simple system with a few speciality hirelings: if the party doesnt mind the hirelings, its a great way to have NPCs join the party as bastion hirelings as defenders or people realted to specific facilities. even if ther eis not much roleplaying or change to hopw facilities work, having the named NPC present means you can use them as questhooks or providing some expertise the party may miss (like having a wizard in teh bastion if there is non in the party may unlock some way for the players in some story element they are dealing iwht outside the bastion) I would recommend even if hirelings are not a full system to have some NPCs that join as part of bastion or world events be in the bastion just for narrative purposes.
+
+having special hirelings matter more: if you have some of the hirelings be named NPCs, and dont mind some extra angle of complexity for the bastion, its great to tie them to some special bastion skills, active or passive. as a base level you could come up with specific buffs the hireling can provide to a facility, like a lich could
