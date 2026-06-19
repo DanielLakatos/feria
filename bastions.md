@@ -515,8 +515,6 @@ For groups interested in deeper strategic management, tie named NPCs to specific
 *   **Mechanics:** Hirelings provide specific, tangible buffs to the Bastion.
 *   **Development:** If the DM and the party develop a special connection to a hireling, you can run quests to unlock additional skills for them. Allowing players to participate in decisions regarding a hireling's training or future capabilities makes these NPCs an extra special part of the campaign.
 
-See the following table for some ideas for hirelings you could include in your campaign:
-
 The following table provides examples of specialty hirelings that can be introduced to the Bastion. Each hireling provides unique benefits to the Bastion's facilities or defenses.
 
 | d12 | Specialty Hireling | Effect |
