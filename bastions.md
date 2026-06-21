@@ -86,11 +86,17 @@ The party can spend money and time to increase the space of a basic facility in 
 
 ## Special Facilities
 
-Special facilities are Bastion locations where certain activities yield game benefits. Initially, the Bastion has one special feature, a Planning Center. The players may choose to add more facilities up to a maximum based on the party's level. This limitation is added for balancing the game experience and preventing players from simply accumulating unlimited special facilities.
+Special facilities are the focal point of a party’s investment in their Bastion. In a gameplay sense, they serve as the primary reward for dedicating time and resources to the stronghold. Thematically, these facilities represent the party’s choice to specialize in specific areas that complement their character builds and campaign goals.
+
+Different parties in different stories will inevitably prioritize different facilities based on their narrative needs. Furthermore, a party’s priorities may evolve as their story progresses. Most importantly, facilities are designed to be complementary; they provide utility, convenience, and strategic advantages, but they should never replace core facets of play or remove the challenge of adventuring.
+
+### Facility Rules & Limitations
+
+These guidelines provide a framework for managing the Bastion; however, they are intended to facilitate play. DMs and players should feel empowered to adapt, opt-in, or opt-out of specific mechanics to better suit the tone and needs of their campaign.
 
 Unlike basic facilities, special facilities need blueprints or a special hireling to construct plus a gold and time cost. Blueprints can be acquired with adventuring and exploring the world, or during special research downtime activity. The Special Facility Amounts table shows the maximum number of special facilities in a Bastion.
 
-##### Special Facility Amounts
+#### Special Facility Amounts
 
 | Level | Maximum Special Facilities |
 | :---: | :------------------------: |
@@ -109,21 +115,19 @@ Deconstructing an existing special facility requires gold and time, shown in the
 | Roomy          |   500 GP | 2 bastion turns |
 | Vast           | 1,500 GP | 3 bastion turns |
 
-### Requirements
+#### Requirements
 
 Each special facility has a level requirement. At least one party member must be that level or higher to acquire that facility, regardless of having the blueprint. A special facility might also have a prerequisite that at least one party member must meet to gain that facility. For example, only a party with at least one member who can use an Arcane Focus or a tool as a Spellcasting Focus can have an _Arcane Study_.
 
-### Space
+#### Space
 
 A special facility occupies a certain amount of space (see "_Facility Space_"). The players can configure the squares of a special facility as desired on the Bastion's map. A special facility can be enlarged to grant additional benefits if its description says so.
 
-### Hirelings
+#### Hirelings
 
-The players can assign names and personalities to hirelings in the party's Bastion using the same tools DMs use to _create NPCs_ (see _chapter 3_).
+Hirelings can be assinged to facilities for allowing orders to be issued to that facility. Some uniquie hirelings can offer alternative orders or effects of present orders. Read more in the _Hirelings_ part of the documentation.
 
-Each special facility in a Bastion generates enough income to pay the salary of its hirelings. Hirelings follow the orders they're given and are loyal to the party.
-
-### Orders
+#### Orders
 
 On a Bastion turn, the party can issue special orders—called Bastion orders—to one or more of the Bastion's special facilities. The party needn't issue orders to all the special facilities in their Bastion on a given Bastion turn.
 
@@ -131,33 +135,47 @@ The Maintain order is unusual; it is issued to the whole Bastion rather than to 
 
 The orders are as follows:
 
-#### Craft
+##### Generic 
 
-Hirelings in the special facility craft an item that can be made in that facility. During the time required to craft an item, the facility can't be used to craft anything else, even if a special ability allows the facility to carry out two orders at once. The hirelings have proficiencies with Artisan's Tools as specified in the facility's description.
+- **Maintain**: All the Bastion's hirelings focus on maintaining the Bastion rather than executing orders in special facilities. Issuing this order prohibits other orders from being issued to the Bastion on the current Bastion turn.
+- **Recruit**: Hirelings recruit creatures to the Bastion. These creatures might include one or more Bastion Defenders, whose main purpose is to defend the Bastion if it is attacked (see "_Bastion Events_" at the end of this chapter). The Bastion generates enough income to provide for the needs of its Bastion Defenders.
 
-#### Empower
+##### Special Facility orders
 
-The special facility confers a temporary empowerment to one or multiple party members or someone else.
+- **Craft:** Hirelings in the special facility craft an item that can be made in that facility. During the time required to craft an item, the facility can't be used to craft anything else, even if a special ability allows the facility to carry out two orders at once. The hirelings have proficiencies with Artisan's Tools as specified in the facility's description.
+- **Empower:** The special facility confers a temporary empowerment to one or multiple party members or someone else.
+- **Harvest:** Hirelings gather a resource produced in the special facility. During the time required to harvest a resource, the facility can't be used to harvest anything else, even if a special ability allows the facility to carry out two orders at once.
+- **Research:** Hirelings in the special facility gather information.
+- **Trade:** Hirelings buy and sell goods or services stored or produced in this special facility.
+- **Infuse:** The facility infuses a magical Charm.
 
-#### Harvest
+###### Special Rewards: Charms
+Unique to the Bastion system, charms are powerful, temporary consumables produced through the Infuse facility orders. A charm embodies the essence of the facility that created it and provides a boon complementary to the party's skills.
 
-Hirelings gather a resource produced in the special facility. During the time required to harvest a resource, the facility can't be used to harvest anything else, even if a special ability allows the facility to carry out two orders at once.
+* **Shelf Life:** A charm remains stable for 7 days (the length of one Bastion turn). If unused by the end of this period, it loses its magic and fades away.
+* **Limit:** A character can possess or benefit from only one Bastion charm in a bastion turn. So if somehow the party possesses multiple charms, one person can benefit form one of them in a given bastion turn.
+* **Activation:** Activating a charm requires an action.
+* **Duration:** The effect of a charm is determined by its creation; durations typically scale as follows:
+    * **Instantaneous:** A singular, impactful event (e.g., a casting of a spell or feature like skill).
+    * **10 Minutes:** Short-term utility (e.g., a temporary physical enhancement).
+    * **1 Hour:** Medium-term focus (e.g., a specialized skill mastery).
+    * **24 Hours:** A daily boon (e.g., a protective ward or sustained buff).
 
-#### Maintain
+Once activated, the charm is consumed.
 
-All the Bastion's hirelings focus on maintaining the Bastion rather than executing orders in special facilities. Issuing this order prohibits other orders from being issued to the Bastion on the current Bastion turn. Each time the Maintain order is issued, the DM rolls once on the _Bastion Events_ table at the end of this chapter. Bastion events are resolved before the next Bastion turn.
+#### Facility Types
+To help players balance their Bastion’s capabilities, every facility is assigned a specific type. This type dictates the primary nature of the rewards and actions it provides and is noted in its description.
+* **Unique Type Rule (Optional):** To prevent an over-accumulation of specific benefits, the party is limited to one facility of each type within their Bastion. Players are encouraged to carefully choose which specialties best serve their current campaign trajectory.
 
-#### Recruit
+### Progression & Milestones
 
-Hirelings recruit creatures to the Bastion. These creatures might include one or more Bastion Defenders, whose main purpose is to defend the Bastion if it is attacked (see "_Bastion Events_" at the end of this chapter). The Bastion generates enough income to provide for the needs of its Bastion Defenders.
+#### Upgrading Facilities
+Some facilities offer the potential for growth, unlocking extra capabilities as they are upgraded. These improvements may introduce entirely new orders, enhance the efficiency of existing ones, or provide passive boons. Upgrading a facility is never purely a matter of gold; it requires the party to engage with the campaign. Requirements for an upgrade may include the acquisition of a rare item, the recruitment of a unique NPC, or the completion of a specific story milestone. 
 
-#### Research
+#### Risk & Exposure
+Upgrading a facility reflects the Bastion’s growing power and prominence in the world. As facilities reach higher tiers, they naturally attract the attention of the party’s Rivals. A high-level Arcane Study containing legendary research or a Barracks stocked with masterwork armaments makes the Bastion a more enticing target. DMs are encouraged to integrate these higher-level facilities into the campaign’s narrative as primary objectives for antagonists, ensuring that the strength of the Bastion is balanced by the increased threat of an attack.
 
-Hirelings in the special facility gather information.
 
-#### Trade
-
-Hirelings buy and sell goods or services stored or produced in this special facility.
 
 ## Bastion Events
 
