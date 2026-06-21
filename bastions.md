@@ -73,6 +73,8 @@ The party can add a basic facility to their Bastion by spending money and time. 
 | Roomy          | 1,000 GP | 4 bastion turns |
 | Vast           | 3,000 GP | 8 bastion turns |
 
+Special facilities have a base cost of the same amount as basic facilities, but they require additional prerequisites, resources, hirelings or have adjusted cost values.
+
 ### Enlarging Basic Facilities
 
 There is no in-game benefit to enlarging a basic facility, but the party might enlarge a facility for cosmetic reasons or to increase the Bastion's size.
@@ -147,6 +149,7 @@ The orders are as follows:
 - **Harvest:** Hirelings gather a resource produced in the special facility. During the time required to harvest a resource, the facility can't be used to harvest anything else, even if a special ability allows the facility to carry out two orders at once.
 - **Research:** Hirelings in the special facility gather information.
 - **Trade:** Hirelings buy and sell goods or services stored or produced in this special facility.
+- **Recruit**: Recruit a hireling to join the facility.
 - **Infuse:** The facility infuses a magical Charm.
 
 ###### Special Rewards: Charms
@@ -154,7 +157,7 @@ Unique to the Bastion system, charms are powerful, temporary consumables produce
 
 * **Shelf Life:** A charm remains stable for 7 days (the length of one Bastion turn). If unused by the end of this period, it loses its magic and fades away.
 * **Limit:** A character can possess or benefit from only one Bastion charm in a bastion turn. So if somehow the party possesses multiple charms, one person can benefit form one of them in a given bastion turn.
-* **Activation:** Activating a charm requires an action.
+* **Activation:** How to activate a charm is specified within the charm's description.
 * **Duration:** The effect of a charm is determined by its creation; durations typically scale as follows:
     * **Instantaneous:** A singular, impactful event (e.g., a casting of a spell or feature like skill).
     * **10 Minutes:** Short-term utility (e.g., a temporary physical enhancement).
@@ -179,9 +182,9 @@ Upgrading a facility reflects the Bastion’s growing power and prominence in th
 
 ## Bastion Events
 
-At the end of each Bastion turn, the DM determines the Bastion's Event Roll Modifier based on its current status. The DM then rolls once on the Bastion Events table, applying this modifier to the result, to determine what event, if any, befalls the Bastion before the next Bastion Turn. If an event occurs, the DM reads the event aloud to the player whose character controls that Bastion. (All the events are described in the sections following the table.) The event is resolved immediately, with the player and DM working together to expand story details as needed. If multiple characters or Bastions are managed on the same Bastion turn, roll once on the table for each, resolving each event separately.
+At the end of each Bastion turn, the DM determines the Bastion's Event Roll Modifier based on its current status. The DM then rolls once on the Bastion Events table, applying this modifier to the result, to determine what event, if any, befalls the Bastion before the next Bastion Turn. If an event occurs, the DM reads the event aloud to the party. (All the events are described in the sections following the table.) The event is resolved immediately, with the party and DM working together to expand story details as needed.
 
-Bastion events reflect the ongoing life and challenges of a stronghold, whether the characters are present or away. When the Bastion's owner isn't present, these events can be opportunities for the player to take on the role of the Bastion's hirelings and roleplay their reactions to these events. The DM can even turn a Bastion event into a cutscene where each player takes on the role of one of the Bastion's hirelings.
+Bastion events reflect the ongoing life and challenges of a stronghold, whether the characters are present or away. When the party isn't present, these events can be opportunities for the players to take on the role of the Bastion's hirelings and roleplay their reactions to these events. The DM can even turn a Bastion event into a cutscene where each player takes on the role of one of the Bastion's hirelings.
 
 ### Bastion Event Roll Modifier
 
